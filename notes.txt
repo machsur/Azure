@@ -1,6 +1,17 @@
+>> Create Azure data factory:
 
+>> Create Azure storage account
+-- Azure Storage is a Microsoft-managed service providing cloud storage that is highly available, secure, durable, scalable, and redundant. 
+-- Azure Storage includes Azure Blobs (objects), Azure Data Lake Storage Gen2, Azure Files, Azure Queues, and Azure Tables. 
+-- The cost of your storage account depends on the usage and the options you choose below.
+-- create Azure data lake storage gen2 using storage account: built on top of azure storage account / provides additional features such as hirarical name spaces, fine grained 
+   security, compatability with big data workloads. its data lake for big data analytics.
 
->> 
-Azure Storage is a Microsoft-managed service providing cloud storage that is highly available, secure, durable, scalable, and redundant. 
-Azure Storage includes Azure Blobs (objects), Azure Data Lake Storage Gen2, Azure Files, Azure Queues, and Azure Tables. 
-The cost of your storage account depends on the usage and the options you choose below.
+-- Azure storage explorer: Desktop tool to interact with Azure storage account.
+
+>> Azure SQL database: 
+-- not best interface to work with sql db / not have developer friendly functionalities like code format
+-- Azure data studio (available for all os) and sql server management studio (available only for windows) : desktop tools to interact with sql db
+svr-adn
+Surses@99
+
