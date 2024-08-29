@@ -1,0 +1,6 @@
+
+
+>> 
+Azure Storage is a Microsoft-managed service providing cloud storage that is highly available, secure, durable, scalable, and redundant. 
+Azure Storage includes Azure Blobs (objects), Azure Data Lake Storage Gen2, Azure Files, Azure Queues, and Azure Tables. 
+The cost of your storage account depends on the usage and the options you choose below.
