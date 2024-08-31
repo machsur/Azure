@@ -15,3 +15,10 @@
 svr-adn
 Surses@99
 
+>> 
+-- create ADF pipeline for copying data from azure blob to data lake
+-- execute the copy activity when file becomes available.
+-- ececute copy activity only if the file contents are as expected. 
+   file exists - get metadata - if condition true - then execute copy activity
+
+
